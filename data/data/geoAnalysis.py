@@ -1,5 +1,9 @@
 # Geometry Analysis Program
 
+"""
+Functions and script for geometry analysis.
+"""
+
 import numpy as np
 import os
 import sys
